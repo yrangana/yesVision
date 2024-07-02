@@ -1,0 +1,4 @@
+train: 'path/to/train/dataset'
+val: 'path/to/val/dataset'
+test: 'path/to/test/dataset'
+num_classes: 80
